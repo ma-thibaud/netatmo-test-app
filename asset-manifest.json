@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/netatmo-test-app/static/css/main.6a9dac59.css",
+    "main.js": "/netatmo-test-app/static/js/main.9a89e2e7.js",
+    "static/js/787.22c28a5c.chunk.js": "/netatmo-test-app/static/js/787.22c28a5c.chunk.js",
+    "static/media/active-button-2.jpg": "/netatmo-test-app/static/media/active-button-2.4b95a8f5288a4b9ca7ee.jpg",
+    "static/media/iot.jpg": "/netatmo-test-app/static/media/iot.dc2fa18cf8d67d59f02b.jpg",
+    "static/media/active-button-1.jpg": "/netatmo-test-app/static/media/active-button-1.66f4da55b8e045f87079.jpg",
+    "static/media/energy-renovation.jpg": "/netatmo-test-app/static/media/energy-renovation.5a125347c65cd0ef7731.jpg",
+    "static/media/shop.jpg": "/netatmo-test-app/static/media/shop.01b5d7ca9f60fe054f86.jpg",
+    "index.html": "/netatmo-test-app/index.html",
+    "main.6a9dac59.css.map": "/netatmo-test-app/static/css/main.6a9dac59.css.map",
+    "main.9a89e2e7.js.map": "/netatmo-test-app/static/js/main.9a89e2e7.js.map",
+    "787.22c28a5c.chunk.js.map": "/netatmo-test-app/static/js/787.22c28a5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a9dac59.css",
+    "static/js/main.9a89e2e7.js"
+  ]
+}
